@@ -1,0 +1,22 @@
+{
+  "name": "contactsapp",
+  "version": "1.0.0",
+  "description": "A Simple Terminal Contacts Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Contact",
+    "Friend",
+    "Mobile",
+    "Phone",
+    "Email"
+  ],
+  "author": "Shashi Kant Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "yargs": "^15.1.0"
+  }
+}
