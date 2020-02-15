@@ -1,6 +1,6 @@
 # Contacts-App
 
-Contacts App is developed in JavaScript and NodeJS and works in terminal. User provides specified input in terminal and get outputs in terminal too. Contacts App is used to Create a Contact, Read a Contact, Remove a Contact and Read all Contacts. A Contact contains `name` , `mobile` and `email` body.
+Contacts App is developed in JavaScript and NodeJS and works in terminal. User provides specified input in terminal and get outputs in terminal too. Contacts App is used to Create a Contact, Read a Contact, Remove a Contact and Read all Contacts. A Contact body contains ` name ` , ` mobile ` and ` email `.
 
 ## Commands :
 
