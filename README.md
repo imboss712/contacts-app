@@ -2,7 +2,7 @@
 
 Contacts App is developed in JavaScript and NodeJS and works in terminal. User provides specified input in terminal and get outputs in terminal too. Contacts App is used to Create a Contact, Read a Contact, Remove a Contact and Read all Contacts. A Contact body contains ` name ` , ` mobile ` and ` email `.
 
-### Demo : [CodeSandBox](https://codesandbox.io/s/calculator-terminal-h0npz)
+### Demo : [CodeSandBox](https://codesandbox.io/s/contacts-terminal-i3ny4)
 ###### ( Add a new writable terminal in codesandbox and run the commnads )
 
 ## Commands :
