@@ -13,17 +13,57 @@ Contacts App is developed in JavaScript and NodeJS and works in terminal. User p
 
 `node app.js add --name="Shashi Kant Yadav" --phone="9876543210" --email="shashikant@example.com"`
 
+<p align="center">
+  <img src="/demo1.png">
+</p>
+
+If Mobile number already present, It will show error
+
+<p align="center">
+  <img src="/demo6.png">
+</p>
+
 ### Remove a Contact
 
 `node app.js remove --name="Shashi Kant Yadav"`
+
+<p align="center">
+  <img src="/demo2.png">
+</p>
+
+If Contact in not present in JSON file, then it will show error
+
+<p align="center">
+  <img src="/demo5.png">
+</p>
 
 ### Read a Contact
 
 `node app.js read --name="Shashi Kant Yadav"`
 
+<p align="center">
+  <img src="/demo3.png">
+</p>
+
+If Contact not found then it will show an error
+
+<p align="center">
+  <img src="/demo7.png">
+</p>
+
 ### List All Contact
 
 `node app.js list`
+
+<p align="center">
+  <img src="/demo4.png">
+</p>
+
+If No contacts in JSON File, then it will show something like this
+
+<p align="center">
+  <img src="/demo8.png">
+</p>
 
 ## Built With :
 
