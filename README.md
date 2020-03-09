@@ -5,7 +5,7 @@ Contacts App is developed in JavaScript and NodeJS and works in terminal. User p
 ### Demo : [CodeSandBox](https://codesandbox.io/s/contacts-terminal-i3ny4)
 ###### ( Add a new writable terminal in codesandbox and run the commnads )
 
-## Commands :
+## Commands with Demo Images:
 
 ###### ( Run commands in terminal )
 
@@ -31,7 +31,7 @@ If Mobile number already present, It will show error
   <img src="/demo2.png">
 </p>
 
-If Contact in not present in JSON file, then it will show error
+If Contact is not present in JSON file, then it will show error
 
 <p align="center">
   <img src="/demo5.png">
